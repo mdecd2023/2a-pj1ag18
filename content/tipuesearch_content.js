@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 團隊: https://github.com/orgs/mdecd2023/teams/pj1ag18', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '41023131林承志 \n 41039138凃家豐 \n cmsimde_site \n 團隊: https://github.com/orgs/mdecd2023/teams/pj1ag18', 'tags': '', 'url': 'About.html'}]};
