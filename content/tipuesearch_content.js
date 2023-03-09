@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '41023131林承志 \n 41039138凃家豐 \n cmsimde_site \n 團隊: https://github.com/orgs/mdecd2023/teams/pj1ag18', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '41023131林承志\xa0\xa0 https://github.com/george0324 \n 41039138凃家豐\xa0 https://github.com/GUJIAFENG \n cmsimde_site \n 團隊: https://github.com/orgs/mdecd2023/teams/pj1ag18 \n https://mdecd2023.github.io/2a-pj1ag18/content/index.html', 'tags': '', 'url': 'About.html'}]};
